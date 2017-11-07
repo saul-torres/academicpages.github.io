@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ingeniero de Caminos, Canales y Puertos. Universidad de Cantabria, 2009
+* Especialista en Negocio Marítimo y Logística Asociada. Universidad de Cantabria, 2010
+* Doctor por la Universidad de Cantabria, 2014. Nuevos problemas en la evaluación de proyectos de ingeniería: evaluación de la vulnerabilidad y de la percepción del riesgo en el análisis coste-beneficio medioambiental. [https://repositorio.unican.es/xmlui/handle/10902/5842](link)
 
-Work experience
+Experiencia
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -36,19 +36,19 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Publicaciones
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferencias
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Docencia
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
