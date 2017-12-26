@@ -23,9 +23,10 @@ Experiencia docente
 * Septiembre 2010 - Septiempre 2015: Profesor ayudante
   * Universidad de Cantabria
  
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Asignaturas impartidas
+    <ul>{% for post in site.teaching %}
+        {% include archive-single-cv.html %}
+        {% endfor %}</ul>
   
 Skills
 ======
