@@ -15,17 +15,17 @@ Educación
 * Especialista en Negocio Marítimo y Logística Asociada. Universidad de Cantabria, 2010
 * Doctor por la Universidad de Cantabria, 2014. Tesis: *Nuevos problemas en la evaluación de proyectos de ingeniería: evaluación de la vulnerabilidad y de la percepción del riesgo en el análisis coste-beneficio medioambiental*. [(link)](https://repositorio.unican.es/xmlui/handle/10902/5842)
 
-Experiencia
+Experiencia docente
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Desde Enero 2017: Profesor ayudante doctor
+  * Universidad de Cantabria
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Septiembre 2010 - Septiempre 2015: Profesor ayudante
+  * Universidad de Cantabria
+ 
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
