@@ -13,7 +13,7 @@ Hace un tiempo leí un interesante (\*) artículo sobre el número de páginas d
 Aprovechando un ratillo que he tenido, que cada vez me encuentro más cómodo programando en R, y dada la buena bondad que la comunidad de usuarios de este lenguaje tiene de publicar sus códigos en abierto, me he planteado la posibilidad de adaptar/aplicar el código de Marcus W. Beck ([fawda123 en github](https://github.com/fawda123/diss_proc)) al caso de las tesis españolas. Y bueno, aunque la cosa tiene su miga, comentarios, aclaraciones y margen de mejora, para los impacientes dejo aquí el gráfico en cuestión.
 
 <p align="center">
-<a href="https://github.com/saul-torres/saul-torres.github.io/blob/master/images/tesis.box.final.png"><img src="https://github.com/saul-torres/saul-torres.github.io/blob/master/images/tesis.box.final.png" width="600" ></a>
+<a href="https://github.com/saul-torres/saul-torres.github.io/blob/master/images/tesis.box.final.png"><img src="https://github.com/saul-torres/saul-torres.github.io/raw/master/images/tesis.box.final.png" width="600" ></a>
 <figcaption>Número de páginas de tesis españolas por materia. Datos de Tesis Doctorales en Red (http://www.tdx.cat/).</figcaption>
 </p>
 
@@ -30,7 +30,7 @@ Y ahora las diversas aclaraciones, explicaciones metodológicas y demás comenta
 9. Las categorías se han simplificado y agrupado. Por ejemplo, todas las variaciones matemáticas ("512 - Álgebra", "514 - Geometría", "517 - Análisis"...) bajo la categoría "51 - Matemáticas". Igual se ha hecho con casi todas ellas.
 
 <p align="center">
-<a href="https://github.com/saul-torres/saul-torres.github.io/blob/master/images/tesis.num.final.png"><img src="https://github.com/saul-torres/saul-torres.github.io/blob/master/images/tesis.num.final.png" width="600" ></a>
+<a href="https://github.com/saul-torres/saul-torres.github.io/blob/master/images/tesis.num.final.png"><img src="https://github.com/saul-torres/saul-torres.github.io/raw/master/images/tesis.num.final.png" width="600" ></a>
 <figcaption>Número de tesis incluídas en el análisis por materia. Datos de Tesis Doctorales en Red (http://www.tdx.cat/).</figcaption>
 </p>
 
