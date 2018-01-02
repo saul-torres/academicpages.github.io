@@ -15,6 +15,8 @@ En el primer enlace se pueden leer los diferentes proyectos en los que (en mayor
 Los siguientes enlaces hacen referencia a las que considero mis publicaciones más relevantes.  
 Se pueden consultar todas mis publicaciones en el link de Google Scholar que aparece en el menú de la izquierda.
 
+# [Proyectos de investigación](https://saul-torres.github.io/research-projects/)
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
