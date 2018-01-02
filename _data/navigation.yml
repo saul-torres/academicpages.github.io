@@ -6,9 +6,9 @@ main:
   - title: "Publicaciones"
     url: /publications/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "CV"
-    url: /cv/
+    url: /cv/    
+    
+  - title: "Posts"
+    url: /posts/
     
