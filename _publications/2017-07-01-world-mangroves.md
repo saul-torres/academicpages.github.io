@@ -12,3 +12,5 @@ Mangroves and other coastal ecosystems act as natural defenses that protect peop
 [Download paper here](http://hdl.handle.net/10986/27666)
 
 Recommended citation: Losada, I.J.; Beck, M.; Menendez, P.; Espejo, A.; Torres, S.; Diaz-Simal, P.; Fernandez, F.; Abad, S.; Ripoll, N.; Garcia, J.; Narayan, S.; Trespalacios, D.; Quiroz, A.. 2017. Valuing Protective Services of Mangroves in the Philippines : Technical report. World Bank, Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/27666 License: CC BY 3.0 IGO.
+
+*Technical report* also available [here](https://openknowledge.worldbank.org/handle/10986/27657)
