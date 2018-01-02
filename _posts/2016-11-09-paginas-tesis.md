@@ -19,9 +19,9 @@ Aprovechando un ratillo que he tenido, que cada vez me encuentro más cómodo pr
 
 Y ahora las diversas aclaraciones, explicaciones metodológicas y demás comentarios que considero más que oportunos y necesarios:
 
-1. La primera cuestión que me planteé fue de donde obtener los datos. Teseo (link) no proporciona datos de número de páginas. Alguna que otra base de datos europea tampoco. Afortunadamente Tesis Doctorales en Red (link) sí, así que sobre ella está basado el código.
+1. La primera cuestión que me planteé fue de donde obtener los datos. Teseo [link](https://www.educacion.gob.es/teseo/irGestionarConsulta.do) no proporciona datos de número de páginas. Alguna que otra base de datos europea tampoco. Afortunadamente Tesis Doctorales en Red [link](http://www.tesisenred.net/) sí, así que sobre ella está basado el código.
 2. Sobre este respecto, hay que añadir que no todas las tesis españolas están en TDR, pero sí que creo que sirve como muestra más que representativa.
-3. El código en cuestión está disponible aquí. Si alguien se anima a mejorarlo o utilizarlo para análisis más completos, bienvenido sea.
+3. El código en cuestión está disponible [aquí](https://github.com/saul-torres/Tesis_pages). Si alguien se anima a mejorarlo o utilizarlo para análisis más completos, bienvenido sea.
 4. Sobre el código lo primero que quiero decir es que estoy, como quien dice, empezando a dar pasitos con R. Seguramente no sea ni lo más eficiente del mundo ni bonito, pero creo que de momento sirve para empezar. Eso sí, he intentado comentar lo máximo posible para aquellos interesados en saber qué demonios hace. En todo caso, recuerdo que está basado en el citado anteriormente para la Universidad de Minnesota.
 5. La información que se captura de TDR de cada tesis es "código", "fecha de defensa", "número de páginas" y "materia".
 6. El dato "materia" puede resultar problemático. En más de un registro (y de dos, y de...) vienen asignadas varias materias. Incluso en alguno se recogen de forma de descendente todos los relacionados (p.ej. 3 - Ciencias Sociales, 33 - Economía, 332 - Economía regional y territorial. Economía del suelo y de la vivienda). A falta de saber cómo conseguir una mejor clasificación de una tesis en función de la materia, el código simplemente almacena el primero de las materias presente (en el ejemplo anterior, 3 - Ciencias Sociales).
