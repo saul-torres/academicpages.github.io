@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Página web personal.
+_Pequeño disclaimer_: esto es una página web personal (aunque eventualmente incluye material docente).
 
 Podrás encontrar información sobre:  
 * Mi perfil [link](https://saul-torres.github.io/cv/).  
