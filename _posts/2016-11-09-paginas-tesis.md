@@ -14,8 +14,8 @@ Aprovechando un ratillo que he tenido, que cada vez me encuentro más cómodo pr
 
 <p align="center">
 <a href="https://github.com/saul-torres/saul-torres.github.io/blob/master/images/tesis.box.final.png"><img src="https://github.com/saul-torres/saul-torres.github.io/blob/master/images/tesis.box.final.png" width="600" ></a>
-</p>
 <figcaption>Número de páginas de tesis españolas por materia. Datos de Tesis Doctorales en Red (http://www.tdx.cat/).</figcaption>
+</p>
 
 Y ahora las diversas aclaraciones, explicaciones metodológicas y demás comentarios que considero más que oportunos y necesarios:
 
@@ -29,8 +29,10 @@ Y ahora las diversas aclaraciones, explicaciones metodológicas y demás comenta
 8. No obstante, algunos de esos registros (y me temo que por un pequeño lío con los idiomas de TDR que no consigo entender - algunas veces la información aparece en español, otras en catalán, otras en inglés -), no capturan bien los datos, por lo que realmente los válidos se han quedado reducidos a poco menos de la mitad.
 9. Las categorías se han simplificado y agrupado. Por ejemplo, todas las variaciones matemáticas ("512 - Álgebra", "514 - Geometría", "517 - Análisis"...) bajo la categoría "51 - Matemáticas". Igual se ha hecho con casi todas ellas.
 
-![](https://github.com/saul-torres/saul-torres.github.io/blob/master/images/tesis.num.final.png)
-*Número de tesis incluídas en el análisis por materia. Datos de Tesis Doctorales en Red (http://www.tdx.cat/).*
+<p align="center">
+<a href="https://github.com/saul-torres/saul-torres.github.io/blob/master/images/tesis.num.final.png"><img src="https://github.com/saul-torres/saul-torres.github.io/blob/master/images/tesis.num.final.png" width="600" ></a>
+<figcaption>Número de tesis incluídas en el análisis por materia. Datos de Tesis Doctorales en Red (http://www.tdx.cat/).</figcaption>
+</p>
 
 Tengo la intención de seguir trabajando un poco más con el código y ver si todo esto se puede analizar un poco más y representar algo mejor, pero de momento queda aquí una primera pincelada. Posiblemente más cosas se pueden hacer (así a bote pronto, un análisis temporal de la variación del número de páginas a lo largo del tiempo y por materias), pero poco a poco.
 
