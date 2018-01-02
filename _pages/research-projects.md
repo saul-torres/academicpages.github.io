@@ -1,6 +1,6 @@
 ---
 permalink: /research-projects/
-title: "PProyectos de investigación"
+title: "Proyectos de investigación"
 excerpt: "Reseñas de proyectos de investigación"
 author_profile: true
 
