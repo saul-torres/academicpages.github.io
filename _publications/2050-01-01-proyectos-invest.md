@@ -1,5 +1,5 @@
 ---
-title: "Proyecto de Investigacion de Prueba"
+title: "Proyectos de investigación"
 collection: projects
 permalink: /publication/2050-01-01-proyectos-invest
 excerpt: 'Reseñas de proyectos de investigación'
