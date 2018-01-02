@@ -17,7 +17,6 @@ Aprovechando un ratillo que he tenido, que cada vez me encuentro más cómodo pr
     <a href="https://github.com/saul-torres/saul-torres.github.io/blob/master/images/tesis.box.final.png">
       <img src="https://github.com/saul-torres/saul-torres.github.io/blob/master/images/tesis.box.final.png" width="600" >
     </a>
-    <figcaption>Número de páginas de tesis españolas por materia. Datos de Tesis Doctorales en Red (http://www.tdx.cat/).</figcaption>
   </figure> 
 </p>
 
