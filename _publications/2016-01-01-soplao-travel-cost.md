@@ -3,7 +3,7 @@ title: "Economic Valuation of Mining Heritage from a Recreational Approach: Appl
 collection: publications
 permalink: /publication/2016-01-01-soplao-travel-cost
 excerpt: 'In this work, the Travel Cost Method (TCM) has been applied to obtain the economic value of El Soplao Cave (Geosite UR004, Cantabria, Spain) as a recreational site, providing an estimated result of 34,961,162 euros.'
-date: 2010-10-01
+date: 2016-01-01
 venue: 'Sustainability'
 
 ---
