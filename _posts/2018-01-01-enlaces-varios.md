@@ -22,14 +22,14 @@ Colección de links variados. GIS. Estadística. Visualización de datos. Cosas 
 
 
 ### Estadística
-Estadística Básica. Guillermo Ayala Gallego. [link](http://www.uv.es/~ayala/docencia/nmr/nmr13.pdf)
-Post-Data - Introducción a la estadísica. [link](http://www.postdata-statistics.com/)
-OpenIntro - Free and open source introductory statistics book. [link](https://www.openintro.org/index.php)
+* Estadística Básica. Guillermo Ayala Gallego. [link](http://www.uv.es/~ayala/docencia/nmr/nmr13.pdf)
+* Post-Data - Introducción a la estadísica. [link](http://www.postdata-statistics.com/)
+* OpenIntro - Free and open source introductory statistics book. [link](https://www.openintro.org/index.php)
 
 
 ### Visualización de datos
-"Best Practices Recommendations" a la hora de generar gráficos. [link](https://www.ctspedia.org/do/view/CTSpedia/BestPractices)
-Information visualization. Enrico Bertini. [link](http://enrico.bertini.io/teaching/)
+* "Best Practices Recommendations" a la hora de generar gráficos. [link](https://www.ctspedia.org/do/view/CTSpedia/BestPractices)
+* Information visualization. Enrico Bertini. [link](http://enrico.bertini.io/teaching/)
 
 
 ### Varios
