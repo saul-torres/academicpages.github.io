@@ -8,7 +8,7 @@ author_profile: true
 
 | PFC | TFG | TFM |
 | :---: | :---: | :---: |
-| 15 | 6 | 13 |
+| 16 | 10 | 13 |
 
 ### 2018
 * "Análisis de viabilidad socio-económica de un parque eólico offshore en Cantabria". (TFG) Lucía Hoyo Torre. Enero 2018.  [link](https://repositorio.unican.es/xmlui/handle/10902/12848)
