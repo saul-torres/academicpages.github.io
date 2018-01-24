@@ -10,6 +10,12 @@ author_profile: true
 | :---: | :---: | :---: |
 | 15 | 6 | 13 |
 
+### 2018
+* "Análisis de viabilidad socio-económica de un parque eólico offshore en Cantabria". (TFG) Lucía Hoyo Torre. Enero 2018.  [link](https://repositorio.unican.es/xmlui/handle/10902/12848)
+* "Análisis Coste-Beneficio Medioambiental de Alternativas para la Mejora de la Circulación del Trafico entre Requejada y Suances". (TFM) Gema Zorrilla Martínez. Enero 2018.
+* "Evaluación Socio-Económica del Proyecto de Ampliación del Puerto de Bilbao". (TFM) María de Prado Corral. Enero 2018.
+* "Análisis Socio-Económico de un Proyecto Ferroviario Internacional. Aplicación a la Línea Addis Abeba-Yibuti". (TFM) Sergio García Monroy. Enero 2018.
+
 ### 2017
 * "Análisis de viabilidad económico-financiera de parques eólicos offshore. Aplicación a un parque offshore en el T.M. de San Bartolomé de Tiraja". (TFG) Marta Gómez Jiménez. Junio 2017. [link](https://repositorio.unican.es/xmlui/handle/10902/11904)
 * "Análisis de viabilidad económica de la central hidroeléctrica reversible Pozos de Noja". (TFG) Mª Purificación Cocho Ferreras. Junio 2017. [link](https://repositorio.unican.es/xmlui/handle/10902/11892)
