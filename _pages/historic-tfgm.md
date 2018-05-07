@@ -8,7 +8,7 @@ author_profile: true
 
 | PFC | TFG | TFM |
 | :---: | :---: | :---: |
-| 16 | 10 | 13 |
+| 12 | 17 | 10 |
 
 ### 2018
 * "Análisis de viabilidad socio-económica de un parque eólico offshore en Cantabria". (TFG) Lucía Hoyo Torre. Enero 2018.  [link](https://repositorio.unican.es/xmlui/handle/10902/12848)
@@ -23,6 +23,7 @@ author_profile: true
 * "Análisis coste-beneficio medioambiental del nuevo Crossrail de Londres". (TFM) Alicia Serrano Ferrer. Junio 2017. [link](https://repositorio.unican.es/xmlui/handle/10902/11897)
 * "Análisis socio-económico ex-ante de la expansión de la capacidad aérea de la ciudad de Londres mediante la metodología del análisis coste-beneficio". (TFM) Marta Imaz Solarana. Junio 2017. [link](https://repositorio.unican.es/xmlui/handle/10902/11906)
 * "Análisis socio-económico de medidas de adaptación frente al cambio climático en el Puerto del Musel (Gijón, Asturias)". (TFM) Victoria Esmeralda González Collado. Septiembre 2017. [link](https://repositorio.unican.es/xmlui/handle/10902/12686)
+* "Análisis de viabilidad económica de obras de ingeniería civil considerando sus impactos sobre el sector turístico". (TFG) Sara Reglero Miguel. Septiembre 2017. [link](https://repositorio.unican.es/xmlui/handle/10902/12942)
 
 ### 2016
 * "Diseño de aplicación informática para la evaluación económica de obras de ingeniería civil". (TFG) Miguel Ruiz Diego. Febrero 2016. [link](https://repositorio.unican.es/xmlui/handle/10902/8240)
