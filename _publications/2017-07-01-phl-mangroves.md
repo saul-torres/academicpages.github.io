@@ -1,5 +1,5 @@
 ---
-title: "Valuing Protective Services of Mangroves in the Philippines : Technical report"
+title: "Valuing Protective Services of Mangroves in the Philippines: Technical report"
 collection: publications
 permalink: /publication/2017-07-01-phl-mangroves
 excerpt: 'Mangroves and other coastal ecosystems act as natural defenses to reduce the risks from flooding, erosion and natural disasters. This report measures and values the coastal protection benefits of mangroves in the Philippines.'
