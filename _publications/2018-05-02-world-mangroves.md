@@ -1,5 +1,5 @@
 ---
-title: "The global value of mangroves for risk reduction."
+title: "The global value of mangroves for risk reduction: Technical report"
 collection: publications
 permalink: /publication/2018-05-02-world-mangroves
 excerpt: 'This work rigorously values the social and economic coastal protection benefits provided by mangroves.'
