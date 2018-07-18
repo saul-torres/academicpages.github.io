@@ -19,6 +19,7 @@ Colección de links variados. GIS. Estadística. Visualización de datos. Cosas 
 * Sistema Integrado de Información del Agua. MAGRAMA. [link](http://servicios2.magrama.es/sia/visualizacion/descargas/capas.jsp)
 * Joint Research Centre Data Catalogue [link](http://data.jrc.ec.europa.eu/dataset?sort=sort_criteria+desc)
 * 10 free GIS data sources. [link](http://gisgeography.com/best-free-gis-data-sources-raster-vector/)
+* Benito Zaragozí. GIS posts. [link](http://benito-zaragozi.com/)
 
 
 ### Estadística
