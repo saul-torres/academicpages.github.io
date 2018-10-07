@@ -11,4 +11,4 @@ The economic assessment of non-marketed resources (i.e., cultural heritage) can 
 
 [Download paper here](http://www.mdpi.com/2071-1050/10/7/2550)
 
-Recommended citation: orres-Ortega, S.; Pérez-Álvarez, R.; Díaz-Simal, P.; de Luis-Ruiz, J.M.; Piña-García, F. Economic Valuation of Cultural Heritage: Application of Travel Cost Method to the National Museum and Research Center of Altamira. Sustainability 2018, 10, 2550.
+Recommended citation: Torres-Ortega, S.; Pérez-Álvarez, R.; Díaz-Simal, P.; de Luis-Ruiz, J.M.; Piña-García, F. Economic Valuation of Cultural Heritage: Application of Travel Cost Method to the National Museum and Research Center of Altamira. Sustainability 2018, 10, 2550.
