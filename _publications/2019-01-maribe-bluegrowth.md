@@ -3,7 +3,7 @@ title: "Feasibility of investment in Blue Growth multiple-use of space and multi
 collection: publications
 permalink: /publication/2019-01-maribe-bluegrowth
 excerpt: 'A proposal of new methodology for selecting, filtering, developing and ranking business propositions for multiple-use of space (MUS) and multi-use platforms (MUP).'
-date: 2019-01
+date: 2019-01-22
 venue: 'Renewable and Sustainable Energy Reviews'
 
 ---
