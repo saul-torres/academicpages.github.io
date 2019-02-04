@@ -8,7 +8,7 @@ author_profile: true
 
 | PFC | TFG | TFM |
 | :---: | :---: | :---: |
-| 12 | 18 | 10 |
+| 12 | 19 | 10 |
 
 ### 2018
 * "Análisis de viabilidad socio-económica de un parque eólico offshore en Cantabria". (TFG) Lucía Hoyo Torre. Enero 2018.  [link](https://repositorio.unican.es/xmlui/handle/10902/12848)
@@ -18,6 +18,7 @@ author_profile: true
 * "Análisis socio-económico de viabilidad de un parque undimotriz: aplicación en la costa cántabra". (TFG) Carlos Fernández Castillo. Junio 2018. [link](https://repositorio.unican.es/xmlui/handle/10902/14164)
 * "Análisis de la Estructura de Costes y de Viabilidad de una Central Hidroeléctrica. Particularización al Caso de Estudio de Central en el río Saja y Determinación de Variables Críticas". (TFM) Lucía García-Iturri Gallego. Septiembre 2018.
 * "Diferentes Enfoques en la Caracterización Socioeconómica de la Exposición frente a Eventos de Inundación Fluvial. Aplicación al Caso de la Ciudad de Pamplona y Estudio de Efecto del Cambio Climático". (TFM) Marta Fresán Sánchez de Muniaín. Septiembre 2018.
+* "Estudio Comparativo de Viabilidad Económica de Diferentes Enfoques en la Distribución de Servicios Urbanos". (TFG) Blanca Ruiz del Olmo de Simón. Diciembre 2018.
 
 ### 2017
 * "Análisis de viabilidad económico-financiera de parques eólicos offshore. Aplicación a un parque offshore en el T.M. de San Bartolomé de Tiraja". (TFG) Marta Gómez Jiménez. Junio 2017. [link](https://repositorio.unican.es/xmlui/handle/10902/11904)
