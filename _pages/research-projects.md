@@ -6,6 +6,8 @@ author_profile: true
 
 ---
 
+* "Development of technology tools for the assessment of impacts, vulnerability and adaptation to climate change in the coastal zones of Uruguay". CTCN - UNIDO. 2018. [link](https://www.ctc-n.org/technical-assistance/projects/development-technology-tools-assessment-impacts-vulnerability-and)
+* "Country Disaster Risk Profile for the Bahamas". IDB. 2017.
 * "Valuing Protective Services of Mangroves in the Philippines". World Bank. 2017. [link](https://saul-torres.github.io/publication/2017-07-01-world-mangroves)
 * "Sistema de información en tiempo real de presencia de bicis en carretera: hacia una movilidad ciclista segura". Dirección General de Tráfico, 2016.
 * "Risk based approaches for Asset inteGrity multimodal Transport Infrastructure ManagEment (RAGTIME)". Comisión Europea H2020, 2014-15. [link](http://ragtime-asset.eu/)
