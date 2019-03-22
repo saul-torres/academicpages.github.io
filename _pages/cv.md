@@ -35,7 +35,8 @@ Experiencia investigadora
 ======
 * Investigador asociado al Instituto de Hidráulica de Cantabria [(link)](http://www.ihcantabria.com/es/).
   * Grupo de Clima Marino y Cambio Climático.
-  * Diversos proyectos relacionados con economía aplicada a la ingeniería y con el análisis de riesgos asociados al Cambio Climático.
+  * Proyectos relacionados con economía aplicada a la ingeniería y con el análisis de riesgos asociados al Cambio Climático.
+  * Proyectos relacionados con economía ambiental y la valoración de servicios ecosistémicos.
 
 Publicaciones
 ======
@@ -52,5 +53,6 @@ Conferencias
 Otra experiencia
 ======
 * Enero 2015 - Sept. 2016: gestor de redes sociales de la Escuela de Caminos. Universidad de Cantabria.
-* Desde Sept. 2016: responsable de comunicación y divulgación de la Escuela de Caminos. Universidad de Cantabria.
+* Desde Sept. 2016: coordinador de divulgación y comunicación de la Escuela de Caminos. Universidad de Cantabria.
   * Concurso de Puentes [(link)](http://web.unican.es/centros/caminos/Paginas/concurso-puentes.aspx)
+  * PequeIngeniería [(link)](https://web.unican.es/centros/caminos/pequeingenieria) 
