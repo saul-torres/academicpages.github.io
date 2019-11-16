@@ -8,13 +8,16 @@ author_profile: true
 
 | PFC | TFG | TFM |
 | :---: | :---: | :---: |
-| 12 | 23 | 10 |
+| 12 | 25 | 11 |
 
 ### 2019
 * "Análisis de viabilidad socioeconómica y medioambiental de una central de fusión". (TFG) Inés González García. Febrero 2019. [link](https://repositorio.unican.es/xmlui/handle/10902/15692)
 * "Análisis dinámico de la cadena de suministro de una empresa textil". (TFG) Marta Rueda Rubín. Febrero 2019. [link](https://repositorio.unican.es/xmlui/handle/10902/15693)
 * "Mejora del proceso productivo mediante herramientas de lean manufacturing: caso de estudio en Fagor Electrónica S.COOP". (TFG) Fátima Villarino Salgado. Febrero 2019. [link](https://repositorio.unican.es/xmlui/handle/10902/15690)
-* "Ampliación de la estación de esquí y montaña "Alto Campoo": Diseño de alternativas y análisis coste-beneficio medioambiental". (TFG) Alfonso De Lama Rojo. Julio 2019. [link](https://repositorio.unican.es/xmlui/handle/10902/16414) 
+* "Ampliación de la estación de esquí y montaña "Alto Campoo": Diseño de alternativas y análisis coste-beneficio medioambiental". (TFG) Alfonso De Lama Rojo. Julio 2019. [link](https://repositorio.unican.es/xmlui/handle/10902/16414)
+* "Metodología para la caracterización de Alta Resolución de la Exposición para su Empleo en Análisis de riesgo. Aplicación al Caso de los Efectos de Inundación Costera". (TFG) Javier Ortiz Baranda. Septiembre 2019. [link]()
+* "Estudio de viabilidad socioeconómica de medidas de reducción de la congestión: análisis de las ciudades de Santander y Bilbao". (TFG) Laura Belarra Pacheco. Septiembre 2019. [link]()
+* "Modelado y Optimización de los Recursos de una Cuenca Hidrográfica. Amplicación a la Cuenca del Segura". (TFM) Javier Arto Cuesta. Octubre 2019. [link](https://repositorio.unican.es/xmlui/handle/10902/17161)
 
 ### 2018
 * "Análisis de viabilidad socio-económica de un parque eólico offshore en Cantabria". (TFG) Lucía Hoyo Torre. Enero 2018.  [link](https://repositorio.unican.es/xmlui/handle/10902/12848)
