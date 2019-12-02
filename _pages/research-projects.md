@@ -6,6 +6,7 @@ author_profile: true
 
 ---
 
+* "Assessment and Economic Valuation of Coastal Protection Services Provided by Mangroves in Jamaica". World Bank. 2019. [link](https://www.worldbank.org/en/region/lac/publication/forces-of-nature-coastal-resilience-benefits-of-mangroves-in-jamaica)
 * "Development of technology tools for the assessment of impacts, vulnerability and adaptation to climate change in the coastal zones of Uruguay". CTCN - UNIDO. 2018. [link](https://www.ctc-n.org/technical-assistance/projects/development-technology-tools-assessment-impacts-vulnerability-and)
 * "Country Disaster Risk Profile for the Bahamas". IDB. 2017.
 * "Valuing Protective Services of Mangroves in the Philippines". World Bank. 2017. [link](https://saul-torres.github.io/publication/2017-07-01-world-mangroves)
