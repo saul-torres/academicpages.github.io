@@ -17,7 +17,10 @@ Educación
 
 Experiencia docente
 ======
-* Desde Enero 2017: Profesor ayudante doctor
+* Desde Enero 2020: Profesor contratado doctor interino
+  * Universidad de Cantabria
+  
+* Enero 2017 - Dic. 2019: Profesor ayudante doctor
   * Universidad de Cantabria
 
 * Sept. 2010 - Sept. 2015: Profesor ayudante
