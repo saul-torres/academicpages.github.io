@@ -33,5 +33,11 @@ Colección de links variados. GIS. Estadística. Visualización de datos. Cosas 
 * Information visualization. Enrico Bertini. [link](http://enrico.bertini.io/teaching/)
 
 
+### Modelado dinámico de sistemas
+* VENSIM [link](https://vensim.com/free-download/)
+* Silvio Martínez Vicente. Tutoriales en vídeo. [link](https://www.youtube.com/channel/UC30XzUvk--ypyHCkEOD0Tvw/videos)
+* "MetaSD". Blog con modelos e información útil. [link](https://metasd.com/)
+
+
 ### Varios
 * "Equivalencias figuras profesor universitario España-EEUU-Reino Unido". Javier Morales. [link](https://javier-morales.blogspot.com.es/2016/12/equivalencias-figuras-profesor.html)
