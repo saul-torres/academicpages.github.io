@@ -11,4 +11,4 @@ Coastal flood risks are rising rapidly. We provide high resolution estimates of 
 
 [Download paper here](https://www.nature.com/articles/s41598-020-61136-6)
 
-Recommended citation: Menéndez P, Losada IJ, Torres-Ortega S, Narayan S, Beck MW (2020) The Global Flood Protection Benefits of Mangroves. Scientific Reports.
+Recommended citation: Menéndez, P., Losada, I.J., Torres-Ortega, S. et al. The Global Flood Protection Benefits of Mangroves. Sci Rep 10, 4404 (2020). https://doi.org/10.1038/s41598-020-61136-6
