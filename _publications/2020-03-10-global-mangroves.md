@@ -2,7 +2,7 @@
 title: "The Global Flood Protection Benefits of Mangroves"
 collection: publications
 permalink: /publication/2020-03-10-global-mangroves
-excerpt: 'Coastal flood risks and the needs for adaptation are rising. In a first, we quantify the socio-economic flood savings provided by mangroves every km across their entire 700,000 km distribution in 59 countries. Every year, mangroves avert flood damages to $65 billion in property and 15 million people. The US, China and Mexico receive the greatest economic benefits; Vietnam, India and Bangladesh receive the greatest social benefits from mangroves. These results inform innovative ways to fund mangrove protection using economic incentives, insurance and climate risk financing.'
+excerpt: 'Coastal flood risks and the needs for adaptation are rising. In a first, we quantify the socio-economic flood savings provided by mangroves every km across their entire 700,000 km distribution in 59 countries. Every year, mangroves avert flood damages to $65 billion in property and 15 million people.'
 date: 2020-03-10
 venue: 'Scientific Reports (Nature)'
 
