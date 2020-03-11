@@ -12,3 +12,9 @@ Coastal flood risks are rising rapidly. We provide high resolution estimates of 
 [Download paper here](https://www.nature.com/articles/s41598-020-61136-6)
 
 Recommended citation: Menéndez, P., Losada, I.J., Torres-Ortega, S. et al. The Global Flood Protection Benefits of Mangroves. Sci Rep 10, 4404 (2020). https://doi.org/10.1038/s41598-020-61136-6
+
+
+Media coverage:
+* [Universidad de Cantabria](https://web.unican.es/noticias/Paginas/2020/marzo_2020/IHCantabria-lidera-un-nuevo-estudio.aspx)
+* [La Vanguardia](https://www.lavanguardia.com/vida/20200311/474089046452/desaparicion-de-manglares-costaria-65000-millones-por-aumento-inundaciones.html)
+* [EFE Verde](https://www.efeverde.com/noticias/la-desaparicion-los-manglares-costaria-65-000-millones-aumento-inundaciones/)
