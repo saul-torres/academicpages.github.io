@@ -8,7 +8,11 @@ author_profile: true
 
 | PFC | TFG | TFM |
 | :---: | :---: | :---: |
-| 12 | 25 | 11 |
+| 12 | 25 | 13 |
+
+### 2019
+* "Evaluación de Riesgos y Medidas de Adaptación de los Puertos de Cantabria frente al Cambio Climático". (TFM) Lorena López Sánchez. Septiembre 2020. [link](https://repositorio.unican.es/xmlui/handle/10902/19671)
+* "Caracterización de la exposición y vulnerabilidad para análisis de riesgos de inundación costera: aplicación al caso de San Vicente de la Barquera". (TFM) Patricia Marabini Mesones. Noviembre 2020. [link]()
 
 ### 2019
 * "Análisis de viabilidad socioeconómica y medioambiental de una central de fusión". (TFG) Inés González García. Febrero 2019. [link](https://repositorio.unican.es/xmlui/handle/10902/15692)
