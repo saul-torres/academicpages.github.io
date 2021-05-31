@@ -1,10 +1,19 @@
 ---
+layout: archive
 permalink: /research-projects/
 title: "Proyectos de investigación"
 excerpt: "Reseñas de proyectos de investigación"
 author_profile: true
 
 ---
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
 * "Plan de Impulso al Medio Ambiente. PIMA-Costas". 2020.
 * "Adaptación al cambio climático, prevención de riesgos y resiliencia ante desastres en España. Recomendaciones relativas a las directrices estratégicas y las prioridades de inversión para el período de programación del FEDER 2021-2027". DGRegio, Comisión Europea. 2019.
