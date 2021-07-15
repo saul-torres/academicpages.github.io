@@ -3,8 +3,8 @@ title: "The Forces of Nature. Assessment of Economic Valuation of Coastal Protec
 collection: publications
 permalink: /publication/2019-12-01-mangroves-jamaica
 excerpt: 'Mangrove forests play a critically important role in coastal protection. In this study we estimate a value for the protection services provided by mangroves in Jamaica.'
-date: 2020-10-20
-venue: 'The Nature Conservancy'
+date: 2019-12-01
+venue: 'The World Bank. The Nature Conservancy'
 
 ---
 Mangrove forests play a critically important role in coastal protection. They can dissipate wave energy, which can lower flood risk and minimize erosion. Mangrove forests, however, are threatened by a number of natural and man-made factors, including storm events. Often times, mangroves are able to recover post-storm with limited intervention, but active post-storm restoration efforts are required to re-establish mangroves and hasten recovery, particularly when hydrological damage has occurred. Insurance is a unique market-based mechanism that can cost-effectively protect and restore coastal habitat. In Quintana Roo, Mexico, The Nature Conservancy helped launch the first-ever insurance product to protect coral reefs from storm damage. We consider whether a similar mechanism could be developed for the protection and restoration of mangroves following storm events.
